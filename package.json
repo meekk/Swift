@@ -1,6 +1,6 @@
 {
   "name": "client-swift-ml",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Object Storage OpenStack Swift client for Node.js fork matsune",
   "main": "index.js",
   "scripts": {
