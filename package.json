@@ -1,7 +1,7 @@
 {
-  "name": "client-swift",
+  "name": "client-swift-ml",
   "version": "0.1.1",
-  "description": "Object Storage OpenStack Swift client for Node.js",
+  "description": "Object Storage OpenStack Swift client for Node.js fork matsune",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,7 +12,7 @@
     "openstack-storage",
     "swift"
   ],
-  "author": "matsune",
+  "author": "meekk fork matsune",
   "license": "ISC",
   "dependencies": {
     "request": "^2.88.0"
