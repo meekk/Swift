@@ -1,4 +1,6 @@
 # Swift
+FORK matsune/Swift
+********************
 Swift is a client library for connecting Object Storage OpenStack Swift, supporting all Identity API versions (v1.0, v2.0, v3).   
 This library is inspired by golang's swift client library [ncw/swift](https://github.com/ncw/swift).
 
